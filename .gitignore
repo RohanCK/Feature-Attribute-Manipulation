@@ -1,0 +1,11 @@
+# pycache
+*.pyc
+
+# tensorboard output
+tensorboard/*
+
+# trained models
+*.pt
+
+# vscode
+.vscode/
